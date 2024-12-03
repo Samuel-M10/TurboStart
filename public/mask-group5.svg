@@ -1,0 +1,18 @@
+<svg width="504" height="211" viewBox="0 0 504 211" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<mask id="mask0_458_13446" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="504" height="211">
+<rect x="0.368164" y="0.0637207" width="503.586" height="210.625" fill="url(#paint0_radial_458_13446)"/>
+</mask>
+<g mask="url(#mask0_458_13446)">
+<rect opacity="0.85" x="0.368164" y="0.0637207" width="503.586" height="210.625" fill="url(#pattern0_458_13446)"/>
+</g>
+<defs>
+<pattern id="pattern0_458_13446" patternContentUnits="objectBoundingBox" width="0.0555556" height="0.132829">
+<use xlink:href="#image0_458_13446" transform="scale(0.00138889 0.00332071)"/>
+</pattern>
+<radialGradient id="paint0_radial_458_13446" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(252.161 105.376) scale(201.434 105.312)">
+<stop offset="0.05"/>
+<stop offset="1" stop-opacity="0"/>
+</radialGradient>
+<image id="image0_458_13446" width="40" height="40" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAABQSURBVHgB7dfBCYBADATAYFn2YA+WYhv2ZE8xFYggeMfdDOxv31kSATC5zDwqV2X7ubdXzsr61FsCgL69veitFseSAPSu1a9hSQBGYUk+ugFiDadx186w4QAAAABJRU5ErkJggg=="/>
+</defs>
+</svg>

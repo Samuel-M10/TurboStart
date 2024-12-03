@@ -1,0 +1,24 @@
+<svg width="504" height="317" viewBox="0 0 504 317" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="503.586" height="315.972" transform="translate(0.30127 0.411133)" fill="#101235" fill-opacity="0.5"/>
+<mask id="mask0_458_13433" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="504" height="317">
+<rect x="0.30127" y="0.411133" width="503.586" height="315.972" fill="white"/>
+</mask>
+<g mask="url(#mask0_458_13433)">
+<g style="mix-blend-mode:hard-light">
+<rect x="0.831512" y="0.941375" width="502.525" height="314.911" rx="10.6605" fill="#2A303B"/>
+<rect x="0.831512" y="0.941375" width="502.525" height="314.911" rx="10.6605" fill="url(#paint0_radial_458_13433)"/>
+<rect x="0.831512" y="0.941375" width="502.525" height="314.911" rx="10.6605" fill="url(#paint1_radial_458_13433)"/>
+<rect x="0.831512" y="0.941375" width="502.525" height="314.911" rx="10.6605" stroke="#909090" stroke-width="1.06048"/>
+</g>
+</g>
+<defs>
+<radialGradient id="paint0_radial_458_13433" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(327.581 303.776) scale(316 119.343)">
+<stop stop-color="#A5C2FF" stop-opacity="0.58"/>
+<stop offset="1" stop-color="#A5C2FF" stop-opacity="0"/>
+</radialGradient>
+<radialGradient id="paint1_radial_458_13433" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(143.471 9.66911) scale(162.91 186.55)">
+<stop stop-color="#6681CA"/>
+<stop offset="1" stop-color="#6681CA" stop-opacity="0"/>
+</radialGradient>
+</defs>
+</svg>

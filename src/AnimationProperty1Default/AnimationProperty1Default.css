@@ -1,0 +1,368 @@
+.animation-property-1-default,
+.animation-property-1-default * {
+  box-sizing: border-box;
+}
+.animation-property-1-default {
+  padding: 0px 0px 0px 50px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  overflow-y: auto;
+}
+.animation-property-1-default .group-1686550979 {
+  flex-shrink: 0;
+  width: 853px;
+  height: 1273px;
+  position: static;
+}
+.animation-property-1-default .group-1686550978 {
+  width: 556px;
+  height: 840px;
+  position: static;
+}
+.animation-property-1-default .groups {
+  background: radial-gradient(
+      closest-side,
+      rgba(6, 113, 253, 0.5) 0%,
+      rgba(0, 0, 0, 0) 100%
+    ),
+    linear-gradient(
+      to left,
+      rgba(181, 181, 181, 0.03),
+      rgba(181, 181, 181, 0.03)
+    );
+  border-radius: 14.65px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.3);
+  border-width: 0.92px;
+  padding: 0px 28.12px 0px 22.79px;
+  width: 39.65%;
+  height: 19.8%;
+  position: absolute;
+  right: 21.59%;
+  left: 38.76%;
+  bottom: 21.76%;
+  top: 58.44%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  overflow: hidden;
+  backdrop-filter: blur(32.8px);
+}
+.animation-property-1-default .image {
+  width: 214.89px;
+  height: 322.86px;
+  position: absolute;
+  right: 3.24px;
+  bottom: -76.59px;
+}
+.animation-property-1-default .group-1686550981 {
+  position: absolute;
+  inset: 0;
+}
+.animation-property-1-default .group-5 {
+  width: 291.18px;
+  height: 169.65px;
+  position: static;
+  mix-blend-mode: plus-lighter;
+}
+.animation-property-1-default .screenshot-2024-11-11-at-12-16-42-pm-1 {
+  border-radius: 7.53px 7.53px 0px 0px;
+  width: 291.18px;
+  height: 169.65px;
+  position: absolute;
+  left: 32px;
+  top: 82px;
+  object-fit: cover;
+}
+.animation-property-1-default .screenshot-2024-11-11-at-12-16-42-pm-2 {
+  background: #004cae;
+  border-radius: 7.53px 7.53px 0px 0px;
+  width: 291.18px;
+  height: 169.65px;
+  position: absolute;
+  left: 32px;
+  top: 82px;
+  mix-blend-mode: hue;
+}
+.animation-property-1-default .groups2 {
+  background: radial-gradient(
+      closest-side,
+      rgba(6, 113, 253, 0.5) 0%,
+      rgba(0, 0, 0, 0) 100%
+    ),
+    linear-gradient(
+      to left,
+      rgba(181, 181, 181, 0.03),
+      rgba(181, 181, 181, 0.03)
+    );
+  border-radius: 14.65px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.3);
+  border-width: 0.92px;
+  padding: 0px 28.12px 0px 22.79px;
+  width: 39.65%;
+  height: 19.8%;
+  position: absolute;
+  right: 21.93%;
+  left: 38.43%;
+  bottom: 67.95%;
+  top: 12.25%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  overflow: hidden;
+  backdrop-filter: blur(32.8px);
+}
+.animation-property-1-default .group-1686550972 {
+  position: absolute;
+  inset: 0;
+}
+.animation-property-1-default .group-52 {
+  width: 288.95px;
+  height: 168.36px;
+  position: static;
+  mix-blend-mode: plus-lighter;
+}
+.animation-property-1-default .screenshot-2024-11-11-at-12-16-42-pm-12 {
+  border-radius: 7.47px 7.47px 0px 0px;
+  width: 288.95px;
+  height: 168.36px;
+  position: absolute;
+  left: 33.92px;
+  top: 81.6px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  object-fit: cover;
+}
+.animation-property-1-default .image-1 {
+  width: 109.01px;
+  height: 113.13px;
+  position: absolute;
+  left: 118.38px;
+  top: 111.77px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  object-fit: cover;
+}
+.animation-property-1-default .screenshot-2024-11-11-at-12-16-42-pm-22 {
+  background: #004cae;
+  border-radius: 7.47px 7.47px 0px 0px;
+  width: 288.95px;
+  height: 168.36px;
+  position: absolute;
+  left: 34.05px;
+  top: 81.6px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  mix-blend-mode: hue;
+}
+.animation-property-1-default .groups3 {
+  background: radial-gradient(
+      closest-side,
+      rgba(6, 113, 253, 0.5) 0%,
+      rgba(0, 0, 0, 0) 100%
+    ),
+    linear-gradient(
+      to left,
+      rgba(181, 181, 181, 0.03),
+      rgba(181, 181, 181, 0.03)
+    );
+  border-radius: 14.53px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.3);
+  border-width: 0.91px;
+  padding: 0px 27.88px 0px 22.6px;
+  width: 39.31%;
+  height: 19.72%;
+  position: absolute;
+  right: 0%;
+  left: 60.69%;
+  bottom: 44.7%;
+  top: 35.59%;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  overflow: hidden;
+  backdrop-filter: blur(32.53px);
+}
+.animation-property-1-default .background {
+  width: 217.2px;
+  height: 320.14px;
+  position: absolute;
+  right: -0.25px;
+  bottom: -74.52px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.animation-property-1-default .group-53 {
+  position: absolute;
+  inset: 0;
+  mix-blend-mode: plus-lighter;
+}
+.animation-property-1-default .screenshot-2024-11-11-at-12-16-42-pm-13 {
+  border-radius: 7.47px 7.47px 0px 0px;
+  width: 288.72px;
+  height: 168.22px;
+  position: absolute;
+  left: 30.87px;
+  top: 82px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  object-fit: cover;
+}
+.animation-property-1-default .rectangle-1410127028 {
+  background: linear-gradient(
+    90deg,
+    rgba(21, 30, 40, 1) 0%,
+    rgba(24, 33, 44, 1) 100%
+  );
+  width: 48.12px;
+  height: 12.44px;
+  position: absolute;
+  left: 82.62px;
+  top: 153.96px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.animation-property-1-default .rectangle-1410127040 {
+  width: 66.89%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 33.11%;
+  bottom: 0%;
+  top: 0%;
+  backdrop-filter: blur(2px);
+}
+.animation-property-1-default .research-report {
+  color: #dffdff;
+  text-align: left;
+  font-family: "SpaceGrotesk-Bold", sans-serif;
+  font-size: 14.650450706481934px;
+  line-height: 24.8px;
+  font-weight: 700;
+  text-transform: uppercase;
+  opacity: 0.52;
+  position: absolute;
+  right: 367.61px;
+  bottom: 471.78px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.animation-property-1-default .research-report2 {
+  color: #dffdff;
+  text-align: left;
+  font-family: "SpaceGrotesk-Bold", sans-serif;
+  font-size: 14.650450706481934px;
+  line-height: 24.8px;
+  font-weight: 700;
+  text-transform: uppercase;
+  opacity: 0.52;
+  position: absolute;
+  right: 365.1px;
+  bottom: 1062.78px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.animation-property-1-default .perspective {
+  color: #dffdff;
+  text-align: left;
+  font-family: "SpaceGrotesk-Bold", sans-serif;
+  font-size: 14.526854515075684px;
+  line-height: 24.59px;
+  font-weight: 700;
+  text-transform: uppercase;
+  opacity: 0.52;
+  position: absolute;
+  right: 101.77px;
+  bottom: 765.83px;
+  width: 222.32px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.animation-property-1-default .groups4 {
+  background: radial-gradient(
+      closest-side,
+      rgba(6, 113, 253, 0.5) 0%,
+      rgba(0, 0, 0, 0) 100%
+    ),
+    linear-gradient(
+      to left,
+      rgba(181, 181, 181, 0.03),
+      rgba(181, 181, 181, 0.03)
+    );
+  border-radius: 15.64px;
+  border-style: solid;
+  border-color: rgba(255, 255, 255, 0.3);
+  border-width: 0.98px;
+  padding: 0px 30.01px 0px 24.32px;
+  width: 42.19%;
+  height: 28.08%;
+  position: absolute;
+  right: 52.27%;
+  left: 5.54%;
+  bottom: 41.12%;
+  top: 30.79%;
+  box-shadow: 12px 2px 45px 25px rgba(0, 0, 0, 0.19);
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  overflow: hidden;
+  backdrop-filter: blur(35.01px);
+}
+.animation-property-1-default .background2 {
+  width: 233.77px;
+  height: 344.56px;
+  position: absolute;
+  right: 0.29px;
+  bottom: 6.97px;
+}
+.animation-property-1-default .safeguard-agains {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Figtree-Medium", sans-serif;
+  font-size: 19.544193267822266px;
+  font-weight: 500;
+  position: absolute;
+  right: 31.11px;
+  bottom: 222.88px;
+  width: 316.62px;
+  height: 58.63px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+}
+.animation-property-1-default .perspective2 {
+  color: #dffdff;
+  text-align: left;
+  font-family: "SpaceGrotesk-Bold", sans-serif;
+  font-size: 15.635354995727539px;
+  line-height: 26.46px;
+  font-weight: 700;
+  text-transform: uppercase;
+  position: absolute;
+  right: 235.24px;
+  bottom: 301.47px;
+}
+.animation-property-1-default .screenshot-2024-11-11-at-12-16-42-pm-14 {
+  border-radius: 8.04px 8.04px 0px 0px;
+  width: 310.75px;
+  height: 181.06px;
+  position: absolute;
+  left: 34.2px;
+  top: 176.74px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  object-fit: cover;
+}
+.animation-property-1-default .screenshot-2024-11-11-at-12-16-42-pm-23 {
+  background: #004cae;
+  border-radius: 8.04px 8.04px 0px 0px;
+  width: 310.75px;
+  height: 181.06px;
+  position: absolute;
+  left: 34.2px;
+  top: 176.74px;
+  transform-origin: 0 0;
+  transform: rotate(0deg) scale(1, 1);
+  mix-blend-mode: hue;
+}

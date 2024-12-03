@@ -1,0 +1,28 @@
+.component-3-variant-1-hover-false,
+.component-3-variant-1-hover-false * {
+  box-sizing: border-box;
+}
+.component-3-variant-1-hover-false {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.component-3-variant-1-hover-false .text {
+  color: var(--color-azure-79, #bcc3d7);
+  text-align: left;
+  font-family: var(
+    --aiwave-nextjsvercelapp-semantic-data-font-family,
+    "Sora-Regular",
+    sans-serif
+  );
+  font-size: var(--aiwave-nextjsvercelapp-semantic-data-font-size, 14px);
+  line-height: var(--aiwave-nextjsvercelapp-semantic-data-line-height, 23.8px);
+  font-weight: var(--aiwave-nextjsvercelapp-semantic-data-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}

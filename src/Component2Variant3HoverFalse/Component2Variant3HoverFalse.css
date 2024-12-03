@@ -1,0 +1,33 @@
+.component-2-variant-3-hover-false,
+.component-2-variant-3-hover-false * {
+  box-sizing: border-box;
+}
+.component-2-variant-3-hover-false {
+  background: var(--color-blue-58, #492bff);
+  border-radius: 100px;
+  padding: 12px 24.89px 12px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 102px;
+  position: relative;
+}
+.component-2-variant-3-hover-false .text {
+  color: var(--wwwgalxecom-white, #ffffff);
+  text-align: left;
+  font-family: var(
+    --wwwgalxecom-inter-regular-14-font-family,
+    "Inter-Regular",
+    sans-serif
+  );
+  font-size: var(--wwwgalxecom-inter-regular-14-font-size, 14px);
+  line-height: var(--wwwgalxecom-inter-regular-14-line-height, 18.2px);
+  letter-spacing: var(--wwwgalxecom-inter-regular-14-letter-spacing, -0.14px);
+  font-weight: var(--wwwgalxecom-inter-regular-14-font-weight, 400);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
